@@ -25,5 +25,3 @@
     ///Result
 
     printf("The area is %.2lf \n", area);
-
-    return 0;
