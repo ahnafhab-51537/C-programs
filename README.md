@@ -1,6 +1,34 @@
-# Hello!
-This Git repo contains beginner level programs written in the C/Ch programming language. 
+**Hello!**
 
-To run the Ch programs you will need the Ch interpretter and ChIDE IDE.
+This GitHub repository contains beginner level programs written in the C and Ch and C++ Programming Languages.
 
-To run the C programs you will need to compile then using GCC.
+**Windows (64-Bit):**
+
+To edit compile and execute Ch Programs install the ChIDE IDE from: 
+
+<[https://www.softintegration.com/download/](https://www.softintegration.com/download)>
+
+To edit compile and execute the C/C++ programs download VS Community from: 
+
+<<https://visualstudio.microsoft.com/vs/community/>>
+
+**MacOS(Intel)/MacOS(Apple Silicon):**
+
+To edit compile and execute Ch Programs install the ChIDE IDE from: 
+
+<[https://www.softintegration.com/download/](https://www.softintegration.com/download)>
+
+`	`To edit compile and execute the C/C++ do the following
+
+First install the [xcode command line tools ](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)on macOS 
+
+`          		`Finally install Visual Studio Code using [Homebrew](https://brew.sh/) or [from Microsoft](https://code.visualstudio.com/)
+
+**Linux(amd64)**
+**
+`	`To edit compile and execute Ch Programs install the ChIDE IDE from:
+
+`           `[<https://www.softintegration.com/download/>](https://www.softintegration.com/download/)
+
+To edit compile and execute C/C++ programs install Vim and GCC from your package manager.
+
