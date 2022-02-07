@@ -16,6 +16,6 @@ int main(void){
     ///Result
 
     //Printing to the user the cost of buying X cups of lemonade at a price of Y per cup. The keyword endl ends the line. Keywords not in quotes are varibles.
-    cout << "The cost of buying " << cups << " of lemonade at a price of $" << price << " costs: " << total << endl;
+    cout << "The cost of buying " << cups << " of lemonade at a price of $" << price << " costs $" << total << endl;
     
 }
