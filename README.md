@@ -1,8 +1,8 @@
-**Hello!**
+# **Hello**
 
 This GitHub repository contains beginner level programs written in the C and Ch and C++ Programming Languages.
 
-**Windows (64-Bit):**
+## **Windows (64-Bit):**
 
 To edit compile and execute Ch Programs install the ChIDE IDE from:
 
@@ -12,7 +12,7 @@ To edit compile and execute the C/C++ programs download VS Community from:
 
     https://visualstudio.microsoft.com/vs/community/
 
-**MacOS(Intel) / MacOS(Apple Silicon):**
+## **MacOS(Intel) / MacOS(Apple Silicon):**
 
 To edit compile and execute Ch Programs install the ChIDE IDE from:
 
@@ -26,7 +26,7 @@ Finally install Visual Studio Code from
     https://code.visualstudio.com/
         
 
-**Linux(amd64)**
+## **Linux(amd64)**
 
  To edit compile and execute Ch Programs install the ChIDE IDE from:
 
