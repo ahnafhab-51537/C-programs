@@ -1,3 +1,6 @@
+    //   This is free and unencumberd software released into the public domain. For more information, please refer to <https://unlicense.org/>
+    
+    
     /* 
 
     Problem: The sale price of lemonade is $1.29 per cup. Write a program to calculate the cost of buying 3 cups of lemonade. 
