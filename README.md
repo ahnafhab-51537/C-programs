@@ -12,7 +12,7 @@ To edit compile and execute the C/C++ programs download VS Community from:
 
     https://visualstudio.microsoft.com/vs/community/
 
-## **MacOS(Intel) / MacOS(Apple Silicon):**
+## **macOS(x86 / Arm):**
 
 To edit compile and execute Ch Programs install the ChIDE IDE from:
 
