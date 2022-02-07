@@ -2,7 +2,7 @@
 
 This GitHub repository contains beginner level programs written in the C and Ch and C++ Programming Languages.
 
-## **Windows (64-Bit):**
+## **Windows(64-Bit):**
 
 To edit compile and execute Ch Programs install the ChIDE IDE from:
 
